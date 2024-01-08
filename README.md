@@ -1,0 +1,1 @@
+This is a micrograd project for training a neural net (not ready for development). It uses backward and forward propagation to tune the neural net parameters (weights and neuron bias) and applies a gradient descent to learn according to loss function.
